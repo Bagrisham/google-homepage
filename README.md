@@ -1,3 +1,7 @@
+Link to project page: https://bagrisham.github.io/google-homepage/
+
+---------------------------------------------------------
+
 This is a project for the Odin Project.
 
 It is meant to help showcase my web development skills utilizing HTML & CSS.
